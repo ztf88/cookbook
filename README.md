@@ -1,2 +1,2 @@
 # cookbook
-personal cookbook
+recording magic food
